@@ -13,3 +13,7 @@ This is my first change to the repository...
 - [ ] a separate task
 
 This seems to work very well.
+
+| Table | Test |
+| 1 | Test |
+
