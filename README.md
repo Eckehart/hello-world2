@@ -17,3 +17,8 @@ This seems to work very well.
 || Table || Test ||
 | 1 | Test |
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
