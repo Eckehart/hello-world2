@@ -14,6 +14,6 @@ This is my first change to the repository...
 
 This seems to work very well.
 
-| Table | Test |
+|| Table || Test ||
 | 1 | Test |
 
